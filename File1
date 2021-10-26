@@ -1,0 +1,7 @@
+Este es el primer archivo, creado en el repositorio 
+este es el código 
+
+a1=4
+b1=5
+x=a1+b1
+print(x)
